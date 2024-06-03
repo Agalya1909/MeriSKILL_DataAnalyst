@@ -12,11 +12,11 @@ Effective management and understanding of diabetes require comprehensive data an
 
 This diabetes patient data analysis project aims to facilitate data-driven decision-making in medical practice by providing a detailed examination of various health metrics. The analysis includes key attributes such as patient demographics, blood glucose levels, BMI, age, and other relevant medical metrics. The objective is to extract actionable insights and trends that can inform medical interventions, lifestyle recommendations, and healthcare policies.
 
-Patient Demographics: Analysis of age, gender, and other demographic factors.\n
-Blood Glucose Levels: Examination of fasting blood glucose levels and HbA1c readings.\n
-BMI and Health Metrics: Analysis of Body Mass Index (BMI) and its correlation with diabetes risk factors.\n
-Correlation Analysis: Identifying correlations between different health metrics and diabetes.\n
-Trend Analysis: Examining trends and patterns in the data over time.\n
+Patient Demographics: Analysis of age, gender, and other demographic factors.
+/nBlood Glucose Levels: Examination of fasting blood glucose levels and HbA1c readings.
+BMI and Health Metrics: Analysis of Body Mass Index (BMI) and its correlation with diabetes risk factors.
+Correlation Analysis: Identifying correlations between different health metrics and diabetes.
+Trend Analysis: Examining trends and patterns in the data over time.
 
 By leveraging Python and its analytical libraries, this project transforms raw patient data into meaningful insights, facilitating improved patient care and strategic healthcare planning.
 
