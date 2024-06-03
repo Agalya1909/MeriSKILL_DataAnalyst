@@ -30,10 +30,15 @@ Purchase Address: Address of each customer who placed an Order
 ## Business Task
 
 Q1. What are the top 5 cities with highest sales?
+
 Q2. What are the profit margin and revenue?
+
 Q3. What are the Products performance by Quantity?
+
 Q4. What are the top 5 products with highest sales count?
+
 Q5. What are the total sales by month?
+
 Q6. What is the revenue contribution in weekdays?
 
 
