@@ -195,4 +195,6 @@ Continue to promote diversity and inclusivity within the workforce.
 ### Strategic Planning: 
 Utilize insights from HR analysis to inform strategic workforce planning and decision-making.
 
+
+
 By leveraging the power of Microsoft Power BI, this HR analysis project provides a comprehensive overview of the organization's human resources, enabling data-driven decisions to enhance operational efficiency and employee satisfaction.
